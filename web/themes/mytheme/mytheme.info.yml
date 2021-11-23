@@ -1,0 +1,15 @@
+name: mytheme
+type: theme
+core_version_requirement: ^8|| ^9
+description: My really empty theme
+base theme: classy  
+ 
+# ...Regions
+regions: 
+  header: Header
+  secondary: Secondary_menu
+   
+
+libraries:
+  - 'mytheme/global'
+  - 'mytheme/bootstrap'
